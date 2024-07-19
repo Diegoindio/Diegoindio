@@ -15,7 +15,7 @@ Além de possui um conhecimento na área financeira, pagamentos e riscos.
 
  #
 
- <img align="right" alt="" height="190px" src="./src/study.gif">
+ <img align="right" alt="" height="190px" src="./src/mario.gif">
 
 <h3 align="left">Connect with me!</h3>
 
