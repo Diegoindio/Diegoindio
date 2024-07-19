@@ -5,8 +5,9 @@
  </a>
 </div>
 #
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Diego Gomes é Engenheiro de Qualidade de Software, possui 4 anos de experiência em testes manuais, automações de API e Web, criação e manutenção de processos e agilidade. Possui formação em Ciência da Computação pela UFF.
+Ao longo de sua trajetória visa o crescimento profissional fundamentado em três pilares essenciais: técnica, execução e mindset. Dessa forma, tem  deixado um legado de inovação e tecnologia em cada empresa por onde passa. 
+Além de possui um conhecimento na área financeira, pagamentos e riscos.
 #
 
 <picture align="center">
