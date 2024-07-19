@@ -4,9 +4,13 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4493F8&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
  </a>
 </div>
+
+<img align="center" alt="" src="./src/QUALITY ASSURENCE (1).png">
+
 #
-Diego Gomes é Engenheiro de Qualidade de Software, possui 4 anos de experiência em testes manuais, automações de API e Web, criação e manutenção de processos e agilidade. Possui formação em Ciência da Computação pela UFF.
-Ao longo de sua trajetória visa o crescimento profissional fundamentado em três pilares essenciais: técnica, execução e mindset. Dessa forma, tem  deixado um legado de inovação e tecnologia em cada empresa por onde passa. 
+
+<p align="center">Diego Gomes é Engenheiro de Qualidade de Software, possui 4 anos de experiência em testes manuais, automações de API e Web, criação e manutenção de processos e agilidade. Possui formação em Ciência da Computação pela UFF.
+Ao longo de sua trajetória visa o crescimento profissional fundamentado em três pilares essenciais: técnica, execução e mindset.<br> Dessa forma, tem  deixado um legado de inovação e tecnologia em cada empresa por onde passa. 
 Além de possui um conhecimento na área financeira, pagamentos e riscos.
 #
 
